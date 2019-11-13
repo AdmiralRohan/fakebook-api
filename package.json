@@ -1,0 +1,28 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Node.JS API for Fakebook application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Facebook",
+    "Fakebook",
+    "Social"
+  ],
+  "author": "Rohan Gayen",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.19.4",
+    "mysql": "^2.17.1",
+    "node-php-password": "^0.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
