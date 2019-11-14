@@ -59,3 +59,13 @@ Friendship status with the user
 
 undefined is not iterable (cannot read property Symbol(Symbol.iterator))
 ajv schema validation
+
+# Entities
+User
+Post
+Comment
+Message
+
+# Use-cases
+# Controllers
+# Data-access
